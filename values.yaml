@@ -1,0 +1,6 @@
+# global:
+#   postgresql:
+#     postgresqlUsername: "bmltYmxlX3dlYgo="
+#     postgresqlPassword: "cXdlcnR5Cg=="
+#   redis:
+#     password: "cXdlcnR5Cg=="
