@@ -1,5 +1,6 @@
 global:
   postgresql:
+    postgresqlDatabase: "postgresql"
     postgresqlUsername: "nimble_web"
     postgresqlPassword: "qwerty"
   redis:
