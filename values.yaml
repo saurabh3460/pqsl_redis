@@ -1,6 +1,6 @@
 global:
   postgresql:
-    postgresqlUsername: "bmltYmxlX3dlYgo="
-    postgresqlPassword: "cXdlcnR5Cg=="
+    postgresqlUsername: "nimble_web"
+    postgresqlPassword: "qwerty"
   redis:
-    password: "cXdlcnR5Cg=="
+    password: "qwerty"
